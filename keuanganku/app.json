@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "keuanganku",
+    "slug": "snack-598ad7a0-bb72-4734-b1d4-6fc7801a1d9b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.andrr03.snack598ad7a0bb724734b1d46fc7801a1d9b"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
