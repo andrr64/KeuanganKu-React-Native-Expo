@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { FontAwesome5 } from '@expo/vector-icons';
-import { formatUang } from '../src/utils/format';
+import { formatUang } from '../utils/format';
 
 // --- Sub-Components for UI ---
 const TransactionIcon = ({ isIncome }) => {

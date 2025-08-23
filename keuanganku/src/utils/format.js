@@ -1,5 +1,3 @@
-// utils/format.js
-
 export const formatUang = (number) => {
   if (!number) return 'Rp 0';
   return new Intl.NumberFormat('id-ID', {
